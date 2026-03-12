@@ -1,0 +1,5 @@
+{
+  "name": "Quantum-Safe Security Auditor",
+  "description": "An expert tool to analyze code for OWASP Top 10 vulnerabilities and legacy encryption risks, providing PQC-ready fixes.",
+  "requestFramePermissions": []
+}
